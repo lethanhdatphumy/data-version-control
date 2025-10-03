@@ -1,0 +1,7 @@
+dvc
+tensorflow  
+pandas
+numpy
+scikit-learn
+matplotlib
+dvc-s3 
